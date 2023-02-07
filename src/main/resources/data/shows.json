@@ -1,0 +1,258 @@
+[
+  {
+    "address": "Cinemagic Cinemas, Road No. 5, Agarsen Nagar",
+    "zipcode": " 334001",
+    "latitude": "29.596576375251168",
+    "longitude": "73.28505395692854",
+    "city": "Bikaner",
+    "state": "Rajasthan",
+    "country": "India",
+    "movie": "Pathan",
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "Hindi",
+    "theatreName": "INOX - Pink Square",
+    "theatreHall": "Audi 1",
+    "showTimings": [
+      {
+        "timing": "11:45 AM",
+        "section": [
+          {
+            "name": "VIP",
+            "price": 550,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Executive",
+            "price": 450,
+            "availabilityStatus": "Available"
+          },
+          {
+            "name": "General",
+            "price": 350,
+            "availabilityStatus": "Available"
+          }
+        ]
+      },
+      {
+        "timing": "03:30 PM",
+        "section": [
+          {
+            "name": "VIP",
+            "price": 575,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Executive",
+            "price": 475,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "General",
+            "price": 375,
+            "availabilityStatus": "Filling Fast"
+          }
+        ]
+      },
+      {
+        "timing": "06:45 PM",
+        "section": [
+          {
+            "name": "VIP",
+            "price": 650,
+            "availabilityStatus": "Sold Out"
+          },
+          {
+            "name": "Executive",
+            "price": 550,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "General",
+            "price": 450,
+            "availabilityStatus": "Sold Out"
+          }
+        ]
+      }
+    ],
+    "bookingDate": "25-01-2023",
+    "startDate": "25-01-2023",
+    "endDate": null,
+    "status": "1",
+    "createdAt": "1674621274",
+    "updatedAt": "1674921274"
+  },
+  {
+    "address": "EP - Miraj Cinema, Near Jawahar Circle ",
+    "zipcode": "302029",
+    "latitude": "26.843337933273112",
+    "longitude": "75.79715325288109",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "movie": "Pathan",
+    "genre": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "Hindi",
+    "theatreName": "Miraj Cinema",
+    "theatreHall": "Emerald",
+    "showTimings": [
+      {
+        "timing": "10:45 AM",
+        "section": [
+          {
+            "name": "Platinum",
+            "price": 500,
+            "availabilityStatus": "Sold Out"
+          },
+          {
+            "name": "Gold",
+            "price": 400,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Silver",
+            "price": 300,
+            "availabilityStatus": "Filling Fast"
+          }
+        ]
+      },
+      {
+        "timing": "02:45 PM",
+        "section": [
+          {
+            "name": "Platinum",
+            "price": 525,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Gold",
+            "price": 425,
+            "availabilityStatus": "Available"
+          },
+          {
+            "name": "Silver",
+            "price": 325,
+            "availabilityStatus": "Available"
+          }
+        ]
+      },
+      {
+        "timing": "06:45 PM",
+        "section": [
+          {
+            "name": "Platinum",
+            "price": 550,
+            "availabilityStatus": "Sold Out"
+          },
+          {
+            "name": "Gold",
+            "price": 450,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Silver",
+            "price": 350,
+            "availabilityStatus": "Available"
+          }
+        ]
+      }
+    ],
+    "bookingDate": "25-01-2023",
+    "startDate": "25-01-2023",
+    "endDate": null,
+    "status": "1",
+    "createdAt": "1674621274",
+    "updatedAt": "1674921274"
+  },
+  {
+    "address": "EP - Miraj Cinema, Near Jawahar Circle ",
+    "zipcode": "302029",
+    "latitude": "26.843337933273112",
+    "longitude": "75.79715325288109",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "movie": "Avatar",
+    "genre": [
+      "Action",
+      "Thriller",
+      "Fantasy"
+    ],
+    "language": "English",
+    "theatreName": "Miraj Cinema",
+    "theatreHall": "Pearl",
+    "showTimings": [
+      {
+        "timing": "10:45 AM",
+        "section": [
+          {
+            "name": "Platinum",
+            "price": 500,
+            "availabilityStatus": "Sold Out"
+          },
+          {
+            "name": "Gold",
+            "price": 400,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Silver",
+            "price": 300,
+            "availabilityStatus": "Filling Fast"
+          }
+        ]
+      },
+      {
+        "timing": "02:45 PM",
+        "section": [
+          {
+            "name": "Platinum",
+            "price": 525,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Gold",
+            "price": 425,
+            "availabilityStatus": "Available"
+          },
+          {
+            "name": "Silver",
+            "price": 325,
+            "availabilityStatus": "Available"
+          }
+        ]
+      },
+      {
+        "timing": "06:45 PM",
+        "section": [
+          {
+            "name": "Platinum",
+            "price": 550,
+            "availabilityStatus": "Sold Out"
+          },
+          {
+            "name": "Gold",
+            "price": 450,
+            "availabilityStatus": "Filling Fast"
+          },
+          {
+            "name": "Silver",
+            "price": 350,
+            "availabilityStatus": "Available"
+          }
+        ]
+      }
+    ],
+    "bookingDate": "27-01-2023",
+    "startDate": "25-01-2023",
+    "endDate": null,
+    "status": "1",
+    "createdAt": "1674621274",
+    "updatedAt": "1674921274"
+  }
+]
