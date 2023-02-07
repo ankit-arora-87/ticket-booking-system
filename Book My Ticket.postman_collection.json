@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "1c73539a-5d23-4428-b5c7-2d588b8a54e6",
+		"name": "Book My Ticket",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3870978"
+	},
+	"item": [
+		{
+			"name": "Search API",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
